@@ -1,0 +1,6 @@
+chromadb==0.4.24
+numpy==1.26.4
+insightface==0.7.3
+onnxruntime==1.19.2
+pillow==10.4.0
+opencv-python==4.10.0.84

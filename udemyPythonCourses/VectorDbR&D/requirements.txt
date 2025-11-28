@@ -1,0 +1,13 @@
+requests == 2.31.0
+flask == 3.0.0
+chromadb==0.4.24
+pydantic==1.10.13
+numpy==1.26.4
+sentence-transformers
+# Python 3.11
+#Image transformers 
+emoji
+
+#Face Recognitions we use insightface
+insightface
+onnxruntime

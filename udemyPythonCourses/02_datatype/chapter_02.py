@@ -1,0 +1,7 @@
+spice_mix = list()
+print(f"Initial space mix id :{id(spice_mix)}")
+spice_mix.insert(0,"Ginger")
+spice_mix.insert(1,"Cardamom")
+spice_mix.insert(2,"lemon")
+print(spice_mix)
+print(f"Final space mix id :{id(spice_mix)}")
