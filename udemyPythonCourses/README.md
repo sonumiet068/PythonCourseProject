@@ -1,1 +1,2 @@
 # PythonCourseProject
+This project is all about learning python project in which need to understand flow of python.How they interact with model.Also need to understand ,how python interact with camera.
